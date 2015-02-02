@@ -10,17 +10,16 @@ Please submit a pull request in Github when you have completed the assessments (
 
 ### Resources
 
-If you don't have experience with Ruby familiarize yourself with the language by playing through the Codecademy course: http://www.codecademy.com/en/tracks/ruby
++ If you don't have experience with Ruby familiarize yourself with the language by playing through the [Codecademy Ruby course](http://www.codecademy.com/en/tracks/ruby).
 
-Make sure you are comfortable using the terminal and basic command line navigation. 
++ Make sure you are comfortable using the terminal and basic command line navigation. 
+  * Here is a [video tutorial](http://flatiron-videos.s3.amazonaws.com/ironboard/command-line-basics.mp4) from Avi, the Dean of The Flatiron School. 
+  * We've also provided a text tutorial in the Resources section that you can access from the left navigation bar. 
 
-Here is a video from Avi, the Dean of The Flatiron School: http://flatiron-videos.s3.amazonaws.com/ironboard/command-line-basics.mp4
++ You'll need to fork and clone the Ruby assessments and we've provided instructions in the Resources.
 
-And a text tutorial: https://github.com/flatiron-school-curriculum/bash-tutorial-public 
-
-Check out these instructions for forking and cloning labs from Github: https://github.com/flatiron-school-curriculum/hs-github-fork-clone-public 
-
-Fork and clone these Ruby labs from Github. Get the tests passing and then submit pull requests so we can check out your work.
++ When you are ready, go to the Assessments section, fork and clone the Ruby labs from Github and work through the tests. 
+  * Once you have the tests passing, submit pull requests so we can check out your work. We've provided instructions on creating pull requests in the Ruby Basics Pre-Test.
 
 Ruby Basics Pre-Test: https://github.com/flatiron-school-curriculum/hs-ruby-assessment-public
 
