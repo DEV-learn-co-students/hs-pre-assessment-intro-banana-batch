@@ -21,4 +21,4 @@ Please submit a pull request in Github when you have completed the assessments (
 + When you are ready, go to the Assessments section, fork and clone the Ruby labs from Github and work through the tests.
   * Once you have the tests passing, submit pull requests so we can check out your work. We've provided instructions on creating pull requests in the Ruby Basics Pre-Test.
 
-<a href='https://learn.co/lessons/hs-pre-assessment-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-pre-assessment-intro' title='Advanced Software Engineering Pre-Test'>Advanced Software Engineering Pre-Test</a> on Learn.co and start learning to code for free.</p>
